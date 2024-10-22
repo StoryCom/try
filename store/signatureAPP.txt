@@ -1,0 +1,27 @@
+jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore reptracker.jks .\app-release.aab RepTracker
+
+0147896325aA!?
+
+NE PAS OUBLIER DE CHANGER LE NUMERO DE VERSION : android/app/build.gradle
+Build l'application : npm run build
+Transférer le contenu du dist dans le dossier dist de capacitor
+Faire une synchronisation : npx cap sync
+Vérifier que ça fonctionne sur téléphone (connecté au pc) : npx cap run android
+
+Si c'est bon :
+Ouvrir Android studio
+Faire un build en production
+
+Ensuite venir dans le dossier ou il y a le fichier aab et lancer la commande ci-dessus
+
+
+------
+Dans un nouveau projet : 
+npm i @capacitor/core
+npm i -D @capacitor/cli
+npx cap init
+npm i @capacitor/android
+npx cap add android
+npx cap sync
+
+ouvrir android studio

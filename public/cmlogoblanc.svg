@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="71.565" height="47.318" viewBox="0 0 71.565 47.318">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 6px;
+      }
+
+      .cls-1 {
+        stroke: #fff;
+      }
+
+      .cls-2 {
+        stroke: #a6a6a6;
+      }
+
+      .cls-3 {
+        stroke: #ebebeb;
+      }
+    </style>
+  </defs>
+  <g id="cmlogoblanc" transform="translate(-30.079 -28.849)">
+    <path id="C" class="cls-1" d="M1120.779,464.464l-64.7.7,21.6-41.318h15.807l.087.12,10.7,14.7" transform="translate(-1023 -392)"/>
+    <path id="M" class="cls-2" d="M1038.5,277.1l-1.067-21.879-15.941,22.036-15.813-22.036h-4.525L989.22,277.254s13.558-.157,19.5-.157" transform="translate(-940 -214)"/>
+    <path id="A" class="cls-3" d="M1021.494,277.254l-15.813-22.036h-4.525L989.22,277.254s13.558-.157,19.5-.157" transform="translate(-940 -214)"/>
+  </g>
+</svg>

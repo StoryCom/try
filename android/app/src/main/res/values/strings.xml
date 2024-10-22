@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">RepTracker</string>
+    <string name="title_activity_main">RepTracker</string>
+    <string name="package_name">fr.storycom.reptracker</string>
+    <string name="custom_url_scheme">fr.storycom.reptracker</string>
+</resources>
